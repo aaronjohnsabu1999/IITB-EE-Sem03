@@ -1,0 +1,17 @@
+Solar Cell I-V Characteristics
+
+.include Solar_Cell.txt
+
+x1 1 0 solar_cell
+r1 2 0 1
+v1 1 2 0
+
+.dc r1 1 500 0.05
+
+.control
+run
+
+plot i(v1) vs v(1)
+
+.endc
+.end

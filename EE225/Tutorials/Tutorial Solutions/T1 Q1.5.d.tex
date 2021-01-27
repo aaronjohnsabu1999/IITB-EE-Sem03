@@ -1,0 +1,118 @@
+\documentclass[12pt]{article}
+ \usepackage[margin=1in]{geometry} 
+\usepackage{amsmath,amsthm,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{url}
+\usepackage{parskip}
+\usepackage{pdflscape}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{amsmath, amsfonts}
+\usepackage{breqn}
+\usepackage{cite}
+\usepackage{float}
+\usepackage{comment}
+\usepackage{esdiff}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+ 
+\newenvironment{problem}[2][Problem]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}\hskip \labelsep {\bfseries #2.}]}{\end{trivlist}}
+%If you want to title your bold things something different just make another thing exactly like this but replace "problem" with the name of the thing you want, like theorem or lemma or whatever
+ 
+\begin{document}
+ 
+%\renewcommand{\qedsymbol}{\filledbox}
+%Good resources for looking up how to do stuff:
+%Binary operators: http://www.access2science.com/latex/Binary.html
+%General help: http://en.wikibooks.org/wiki/LaTeX/Mathematics
+%Or just google stuff
+ 
+\title{EE225 Tutorial Set 1}
+\author{Group 9}
+\maketitle
+ 
+\begin{problem}{1.2.c}
+\end{problem}
+ 
+\begin{proof}[Answer]
+
+\begin{figure}[H]
+\centering
+{\includegraphics[width=.5\textwidth]{c.png}}\\
+ \caption{The circuit}
+ \label{ann2}
+\end{figure}
+
+The graph 1-c shows $V_{out}$ across an inductor.\\
+So we can write
+\begin{equation}
+   L\frac{di}{dt} = V_{out} 
+   \label{x1}
+\end{equation}
+
+ and we know 
+
+\begin{equation}
+V_{out} = \begin{cases}
+        0 &\quad\text{if 0\textless t\textless1}\\
+        2 &\quad\text{if t\textless2}\\
+        -3 &\quad\text{if t\textless3}\\
+        0 &\quad\text{otherwise}\\
+            \end{cases}
+    \label{x2}
+\end{equation}
+
+Using eqn\ref{x1} and eqn\ref{x2} (integrating for $i$)
+We get,
+\begin{equation}
+i = \begin{cases}
+        0 &\quad\text{if 0\textless t\textless1}\\
+        2(t-1) &\quad\text{if t\textless2}\\
+        2-3(t-2) &\quad\text{if t\textless3}\\
+        -1 &\quad\text{otherwise}\\
+            \end{cases}
+    \label{x3}
+\end{equation}
+
+Now this $i$ passes through the capacitor as well. For capacitor, $i = C\frac{dV_c}{dt}$. So we integrate for i to get the following value for $V_c$ 
+\begin{equation}
+V_c = \begin{cases}
+        0 &\quad\text{if 0\textless t\textless1}\\
+        2(t-1)^2 &\quad\text{if t\textless2}\\
+        2+4(t-2)-3(t-2)^2 &\quad\text{if t\textless3}\\
+        3-2(t-3) &\quad\text{otherwise}\\
+            \end{cases}
+    \label{x4}
+\end{equation}
+Also, by KVL, $V_{in} = V_c + V_{out}$ . So by adding eqn\ref{x2} and eqn\ref{x4}, we get
+\begin{equation}
+V_{in} = \begin{cases}
+        0 &\quad\text{if 0\textless t\textless1}\\
+        2t^2-4t+4 &\quad\text{if t\textless2}\\
+        -3t^2+16t-21 &\quad\text{if t\textless3}\\
+        9-2t &\quad\text{otherwise}\\
+            \end{cases}
+    \label{x5}
+\end{equation}
+
+\begin{figure}[H]
+\centering
+{\includegraphics[width=.8\textwidth]{b.png}}\\
+ \caption{Plot of $V_{in}$ vs t }
+ \label{ann2}
+\end{figure}
+
+
+\end{proof}
+
+\end{document}

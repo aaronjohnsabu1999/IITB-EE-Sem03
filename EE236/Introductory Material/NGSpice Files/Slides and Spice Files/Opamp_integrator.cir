@@ -1,0 +1,18 @@
+Differentiator using op-amp 741
+*Including the predefined op-amp subcircuit file
+.include ua741.txt
+*Connections as mentioned in subcircuit file
+x1 0 1 2 3 4 UA741
+r1 5 1 1k
+c1 4 1 0.1u
+rf 4 1 1Meg
+vcc 2 0 dc 15v
+vee 3 0 dc -15v
+*Giving a sinusoidal input
+vin 5 0 sin (0 1v 1k 0 0)
+.tran 0.02ms 6ms
+.control
+run
+plot v(5) v(4)
+.endc
+.end

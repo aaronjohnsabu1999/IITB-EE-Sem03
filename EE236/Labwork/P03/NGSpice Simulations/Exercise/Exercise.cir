@@ -1,0 +1,24 @@
+Comparator using LM311
+
+.include lm311.txt
+x1 1 2 3 4 5 6 LM311
+vdd 3 0 12v
+vss 4 0 0v
+vdummy 6 0 0v
+r1 3 5 18k
+vref 2 0 2v
+vin 1 0 sin(5 5 1k 0 0)
+
+.tran 0.02ms 5ms
+
+.control
+run
+
+plot v(1) v(2) v(5)
+
+set hcopydevtype = postscript
+set hcopypscolor = 1
+hardcopy Comparator_Exercise v(1) v(5)
+
+.endc
+.end

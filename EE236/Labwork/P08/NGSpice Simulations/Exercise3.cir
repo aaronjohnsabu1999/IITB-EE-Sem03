@@ -1,0 +1,21 @@
+Solar Cell I-V Characteristics
+
+.include Solar_Cell.txt
+
+x1 1 0 solar_cell
+vin 2 0 dc 1 ac 0
+r1 2 1 100
+
+.dc vin -2 2 0.01
+
+.control
+run
+
+plot ((v(2)-v(1))/100) vs v(1)
+
+set hcopydevtype = postscript
+set hcopypscolor = 1
+hardcopy part3_rsh5e3 ((v(2)-v(1))/100) vs v(1)
+
+.endc
+.end

@@ -1,0 +1,5 @@
+Questionable use of curly braces in "set hcopydevtype = {postscript}"
+    Error: undefined symbol in: "[postscript]"
+Circuit: I-D vs V_DS
+
+Fatal Error: Multiple instances of "Set"

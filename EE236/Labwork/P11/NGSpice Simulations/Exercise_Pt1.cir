@@ -1,0 +1,26 @@
+I-D vs V_DS
+
+.include ALD1107.txt
+
+m1 1 2 0 0 ALD1107
+vgg 3 0 dc -5V
+r2 4 0 3k
+r1 3 4 2k
+r3 3 5 100
+r4 5 0 1k
+vdummy1 1 5 dc 0V
+vdummy2 2 4 dc 0V 
+
+.dc r4 1 10k 0.1
+
+.control
+run
+
+plot i(vdummy1) vs v(1)
+
+set hcopydevtype = postscript
+set hcopypscolor = 1
+hardcopy Part1 i(vdummy1)
+
+.endc
+.end

@@ -1,0 +1,15 @@
+RC Circuit Frequency Response
+r1 1 2 1k
+c1 2 0 1u
+*Specifying an AC source with zero dc
+vin 1 0 dc 0 ac 1
+*AC analysis for 1 Hz to 1MHz, 10 points per decade
+.ac dec 10 1 1Meg
+.control
+run
+*Magnitude dB plot for v(2) on log scale
+plot vdb(2) xlog
+*Phase degrees plot for v(2) on log scale
+plot {57.29*vp(2)} xlog
+.endc
+.end

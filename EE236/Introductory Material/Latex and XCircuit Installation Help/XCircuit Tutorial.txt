@@ -1,0 +1,33 @@
+XCircuit Tutorial
+
+This is a simple software to
+ make circuit diagrams.
+
+
+Press {Ctrl + Alt + T} to launch terminal
+
+Type {xcircuit} and press enter to launch xcircuit.
+
+
+Add elements by pressing {L}
+
+To make wire connections press {W}
+
+To end wire connection press the {Scroll button}
+Corrections can be made using options on the right hand side panel - scissors to delete, stars to copy and to move.
+
+
+Other options like mirroring the component vertically or horizontally are also available on the right panel.
+
+To label components "A" symbol has to be clicked.
+
+Press {u} for undo
+.
+Save the file
+ frequently.
+ 
+
+Go to "File/Format Page Output"
+
+It is better to save the circuit diagram in .eps format
+Do not forget to click "Apply" before clicking on the "Write file"

@@ -1,0 +1,22 @@
+V_OUT vs V_IN
+
+.include ALD1105N.txt
+.include ALD1105P.txt
+
+m1 1 2 3 3 ALD1105P
+m2 1 2 0 0 ALD1105N
+vdd 3 0 dc 5V
+vin 2 0 dc 5V
+
+.dc vin 0 5 0.01
+
+.control
+run
+
+plot v(1) vs v(2)
+set hcopydevtype = postscript
+set hcopypscolor = 1
+hardcopy Part2 v(1) vs v(2)
+
+.endc
+.end
