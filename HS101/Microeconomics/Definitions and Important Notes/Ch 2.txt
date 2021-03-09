@@ -1,0 +1,11 @@
+Scientific Method = the dispassionate development and testing of theories about how the world works
+Circular Flow Method = a visual model of the economy that shows how dollars flow through markets among households and firms
+Factors of Production
+	1. Labour
+	2. Land
+	3. Capital (buildings and machines)
+Production Possibilities Frontier = a graph that shows the combinations of output that the economy can possibly produce given the available factors of production and the available production technology, hence displaying the oppurtunity cost of one good as measured in terms of the other good and shiftable by an economic advance
+Microeconomics = the study of how households and firms make decisions and how they interact in markets
+Macroeconomics = the study of economy-wide phenomena, including inflation, unemployment and economic growth
+Positive Statement = statement which claims that attempt to describe the world as it is
+Normative Statement = statement which claims that attempt to prescribe how the world should be

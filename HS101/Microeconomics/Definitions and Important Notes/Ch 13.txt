@@ -1,0 +1,23 @@
+Total Revenue = the amount a firm receives for the sale of its output
+Total Cost = the market value of the inputs a firm uses in production
+Profit = the total revenue minus the total cost
+Explicit Costs = the input costs that require an outlay of money by the firm
+Implicit Costs = the input costs that do not require an outlay of money by the firm
+Economic Profit = the total revenue minus the total cost, including both explicit and implicit costs
+Accounting Profit = the total revenue minus the total explicit cost
+Production Function = the relationship between the quantity of inputs used to make a good and the quantity of output of that good
+Marginal Product = the increase in output that arises from an additional unit of input
+Diminishing Marginal Product = the product whereby the marginal product of an input declines as the quantity of the input increases
+Fixed Costs = Costs that do not vary with the quantity of output produced
+Variable Cost = Costs that do vary with the quantity of output produced
+Total Cost = Fixed Costs + Variable Costs
+Average Total Cost = total cost divided by the quantity of output
+Average Fixed Cost = fixed cost divided by the quantity of output
+Average Variable Cost = variable costs divided by the quantity of output
+Marginal Cost = the increase in total cost that arises from an extra unit of production
+Average total cost tells us the cost of typical unit of the output if divided evenly over all the units produced. Marginal cost tells us the increase in total cost that arises from producing an additional unit of output.
+Efficient Scale = the quantity of output that minimises average total cost
+Whenever marginal cost is less than average total cost, average total cost is falling. Whenever marginal cost is greater than average total cost, average total cost is rising. Hence, the marginal-cost curve crosses the average-total-cost curve at the efficient scale.
+Economies at Scale = the property whereby long-run ATC falls as the quantity of output increases
+Diseconomies at Scale = the property whereby long-run ATC rises as the quantity of output increases
+Constant Returns to Scale = the property whereby long-run ATC stays the same as the quantity of output changes

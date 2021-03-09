@@ -1,0 +1,14 @@
+Productivity = the amount of goods and services produced from each hour of a worker's time
+Physical Capital = the stock of equipment and structures that are used to produce goods and services
+Human Capital = the knowledge and skills that workers acquire through education, training and experience
+Natural Resources = the inputs into the production of goods and services that are provided by nature, such as land, rivers and mineral deposits
+Technological Knowledge = the society's understanding of the best ways to produce goods and services
+Technological Knowledge:
+	1. Common Knowledge
+	2. Proprietary
+Diminishing Returns = the property whereby the benefit from an extra unit of an input declines as the quantity of the input increases
+Catch-up effect = the property whereby countries that start off poor tend to grow more rapidly than countries that start off rich
+Foreign Direct Investment = a capital invertment that is owned and operated by a foreign entity
+Foreign Portfolio Investment = an investment that is financed with foreign money but operated by domestic residents
+Brain Drain = the emigration of many of the most highly educated workers from poor countries to rich countries, where these workers can enjoy a higher standard of living
+Property Rights = the ability of people to exercise authority over the resources they own

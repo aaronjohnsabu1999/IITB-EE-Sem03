@@ -1,0 +1,23 @@
+Competitive Market = a market with many buyers and sellers trading identical products so that each buyer and seller is a price taker, and where firms can freely enter and exit the market
+Average Revenue = total revenue divided by the quantity sold = price of the good for all firms
+Marginal Revenue = the change in total revenue from an additional unit sold = price ot the good for competitive firms
+At the profit-maximising level of output, marginal revenue and marginal cost are exactly equal.
+Shut-down = short-run decision not to produce anything during a specific period of time because of current market conditions
+Exit = long-run decision to leave the market
+A firm shuts down if the revenue that it would get from producing is less than its variable costs of production.
+Shut-down:
+	1. TR < VC
+	2. TR/Q < VC/Q
+	3. P < AVC
+A competitive firm's short-run supply curve is the portion of its marginal-cost curve that lies above AVC.
+A competitive firm's long-run supply curve is the position of its marginal-cost curve that lies above ATC.
+Sunk-cost = a cost that has already been committed and cannot be recovered
+Exit:
+	1. TR < TC
+	2. TR/Q < TC/Q
+	3. P < ATC
+Enter is P > ATC
+Profit = TR - TC = (TR/Q - TC/Q) * Q = (P - ATC) * Q
+The process of entry and exit in a market ends only when profit and ATC are driven to equality.
+The long-run equilibrium of a competitive market with free entry and exit must have firms operating at their efficient scale.
+The long-run sypply curve is typically more elastic than the short-run supply curve because firms can enter and exit more easily in the long run than in the short run.

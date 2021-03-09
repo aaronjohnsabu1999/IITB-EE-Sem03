@@ -1,0 +1,18 @@
+Natural Rate of Unemployment = the amount of unemployment that the economy normally experiences = the normal rate of unemployment around which the unemployment rate fluctuates
+Cyclical Unemployment = the year-to-year fluctuations in unemployment around its natural rate, being closely associated with the short-run ups and downs of economic activity = the deviation of unemployment from its natural rate
+A person is considered employed if he or she spent most of the previous week working at a paid job.
+A person is unemployed if he or she is on temporary layoff, is looking for a job, or is waiting for the start date of a new job.
+A person who fits neither of the first two categories, such as a full-time student, homemaker or retiree, is not in the labour force.
+Labour Force = the total number of workers, including both the employed and the unemployed
+Unemployment Rate = the percentage of the labour force that is unemployed = ((Number of Unemployed)/(Labour Force))*(100%)
+Labour-Force Participation Rate = the percentage of the adult population that is in the labour force = ((Labour Force)/(Adult Population))*(100%)
+Discouraged Workers = individuals who would like to work but have given up looking for a job
+Most spells of unemployment are short, and most unemployment observed at any given time is long-term.
+Friction Unemployment = unemployment that results because it takes time for workers to search for the jobs that best suit their tastes and skills
+Structural Unemployment = unemployment that results because the number of jobs available in some labour markets is insufficient to provide a job for everyone who wants one
+Job Search = the process by which workers find appropriate jobs given their tastes and skills
+Unemployment Insurance = a government programme that partially protects workers' incomes when become unemployed
+Union = a worker association that bargains with employers over wages and working conditions
+Collective Bargaining = the process by which unions and firms agree on the terms of employment
+Strike = the organised withdrawal of labour from a firm by a union
+Efficiency Wages = above-equilibrium wages paid by firms in order to increase worker productivity

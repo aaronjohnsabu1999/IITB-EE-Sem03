@@ -1,0 +1,15 @@
+Consumer Price Index (CPI) =  A measure of the overall cost of the goods and services bought by a typical customer
+Inflation = A situation in which the economy's overall price level is rising
+Inflation Rate = The percentage change in the price index from the preceding period
+Inflation rate in year 2 = (((CPI in year 1) - (CPI in year 2))/(CPI in year 1))*100
+Producer Price Index = A measure of the cost of a basket of goods and services bought by firms
+Issues in the CPI:
+	1. Substitution Bias
+	2. Introduction of New Goods
+	3. Unmeasured Quality Change
+Substitution Bias = The disproportionality of change in the prices of goods from one year to the next
+GDP Deflator = The ratio of nominal GDP to real GDP
+Indexation = the automatic correction of a dollar amount for the effects of inflation by law or contract
+Nominal Interest Rate = the interest rate as usually reported without a correction for the effects of inflation
+Real Interest Rate = the interest rate corrected for the effects of inflation
+Real Interest Rate = Nominal Interest Rate - Inflation Rate

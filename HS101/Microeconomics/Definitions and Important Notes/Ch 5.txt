@@ -1,0 +1,14 @@
+Elasticity = a measure of the responsiveness of quantity demanded or quantity supplied to one of its determinants
+Price Elasticity of Demand = a measure of how much the quantity demanded of a good responds to a change in the price of that good, computed as the percentage change in quantity divided by the percentage change in price
+Factors affecting Elasticity
+	1. Necessities vs Luxuries
+	2. Availability of Close Substitutes
+	3. Definition of the Market
+	4. Time horizon
+Price elasticity of demand = (Percentage change in quantity demanded)/(Percentage change in price)
+The flatter is the demand curve that passes through a given point, the greater is the price elasticity of demand. The steeper is the demand curve that passes through a given point, the smaller is the price elasticity of demand.
+Total revenue = the amount paid by buyers and received by sellers of a good, computed as the price of the good times the quantity sold
+Income Elasticity of Demand = a measure of how much the quantity demanded of a good responds to a change in consumers' income, computed as the percentage change in quantity divided by the percentage change in income
+Income Elasticity of Demand = (Percentage change in quantity demanded)/(Percentage change in income)
+Cross-Price Elasticity of Demand = a measure of how much the quantity demanded of one good responds to a change in the price of another good, computed as the percentage change in quantity of the first good divided by the percentage change in the price of the second good
+Price Elasticity of Supply = a measure of how much the quantity supplied of a good responds to a change in the price of that good, computed as the percentage change in quantity supplied divided by the percentage change in price

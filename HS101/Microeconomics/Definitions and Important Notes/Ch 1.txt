@@ -1,0 +1,27 @@
+Scarcity = the limited nature of society's resources
+Economics = the study of how the society manages its scarce resources
+Ten Principles of Economics:
+	1. People face tradeoffs
+	2. The cost of something is what you give up to get it
+	3. Rational people think at the margin
+	4. People respond to incentives
+	5. Trade can make everyone better off
+	6. Markets are usually a good way to organise economic activity
+	7. Governments can sometimes improve market outcomes
+	8. A country's standard of living depends on its ability to produce goods and services
+	9. Prices rise when the government prints too much money
+	10. Society faces a short-run tradeoff between inflation and unemployment
+Efficiency = the property of society getting the most it can from its scarce resources
+Equity = the property of distributing economic prosperity fairly among the members of society
+Oppurtunity Cost = whatever must be given up to obtain some item
+Marginal Change = a small incremental adjustment to a plan of action
+Central Planning - only the government could organise economic activity in a way that promoted economic well-beling for the country as a whole
+Market economy = an economy that allocates resources through the decentralised decisions of many firms and households as they interact in markets for goods and services
+"Households and firms interacting in markets act as if they are guided by an 'invisibile hand' that leads them to desirable market outcomes." - Adam Smith
+Market Failure = a situation in which a market left on its own fails to allocate resources efficiently
+Externality = the impact of one person's actions on the well-being of a bystander
+Market Power = ability of a single person (or a small group of people) to unduly influence market prices
+Productivity = the amount of goods and services produced from each hour of a worker's time
+Budget deficit = Excess of spending over revenue
+Inflation = an increase in the overall level of prices in the economy
+Phillips curve = a curve that shows the short-run tradeoff between inflation and unemployment

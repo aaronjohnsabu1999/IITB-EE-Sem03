@@ -1,0 +1,27 @@
+Microeconomics = the study of how households and firms make decisions and how they interact in markets
+Macroeconomics = the study of economy-wide phenomena, including inflation, unemployment and economic growth
+For an economy as a whole, expenditure and income are always the same.
+Gross Domestic Product (GDP) = the market value of all final goods and services produces within a country in a given period of time
+GDP - calculated by adding up total expenditue by households or by adding up total income paid by firms
+Gross National Product (GNP) = total income earned by a nation's permanent residents (nationals) = (GDP + income that citizens earn abroad - income that foreigners earn locally)
+Net National Product (NNP) = total income of a nation's residents minus losses from depreciation = (GNP - Depreciation)
+Depreciation = wear and tear on the economy's stock of equipment and structures = "consumption of fixed capital"
+National Income = total income earned by a nation's residents in the production of goods and services = (NNP - Indirect Business Taxes + Business Subsidies)
+Personal Income = income that households and noncorporate businesses receive = (National Income - Retained Earnings - Corporate Income Taxes - Social Insurance Contributions
+Retained Earnings) = income that corporations have earned but have not paid out to their owners
+Disposable Personal Income = income that households and noncorporate businesses have left after satisfying all their obligations to the government = (Personal Income - Personal Taxes -Non-Tax Government Payments)
+Y = C + I + G + NX 
+(Y = GDP, C = consumption, I = investment, G = government purchases, NX = net exports)
+Consumption = spending by households on foods and services, with the exception of purchases of new housing
+Investment = spending on capital equipment, inventories, and structures, including household purchases of new housing
+Government Purchases = spending on goods and services by local, state and central governments
+Net Exports = spending on domestically produced goods by foreigners (exports) minus spending on foreign goods by domestic residents (imports)
+When a domestic household, firm or government buys a good or service from abroad, the purchase reduces net exports but raises consumption, investment or government purchases, hence not affecting the GDP as a whole.
+Transfer Payment = a government payment which is not made in exchange for a currently produced good or service and is not counted as part of government purchases, hence not affecting the GDP
+Real GDP = the production of goods and services valued at constant prices = GDP produced given goods and services were valued at prices that prevailed in some specific year in the past, hence showing how the overall production of goods and services changes over time
+Nominal GDP = the production of goods and services valued at current prices
+GDP deflator = a measure of the price level calculated as the ratio of nominal GDP to real GDP times 100 = ((Nominal GDP)/(Real GDP))*100
+GDP deflator for base year = 100
+Recession = period of falling real GDP associated with lower incomes, rising unemployment, falling profits, increased bankruptcies etc.
+GDP - not a perfect measure of well-being; excludes the value of almost all activity that takes place outside of markets, such as household chores, parental child care, volunteer work etc; excludes quality of the environment; says nothing about the distribution of income
+Countries with low GDP per person - infants with low birth weight, higher rates of infant mortality, higher rates of maternal mortality, higher rates of child malnutrition, less common access to safe drinking water, fewer school-going school-age children, fewer teachers per student, fewer televisions, fewer telephones, fewer paved roads, fewer households with electricity
